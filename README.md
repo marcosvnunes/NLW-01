@@ -2,7 +2,7 @@
 
 ##### Projeto desenvolvido durante a Next Level Week da RocketSeat 
 
-### Tecnologias
+## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
 - [nodejs](https://nodejs.org/en/)
@@ -10,18 +10,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo ](https://expo.io/)
 
-### Projeto
+## :computer: Projeto
 O Ecoleta é um projeto que visa conectar pessoas que querem reciclar seu resíduos com os pontos de coleta 
 
-### Site
+## Site
 
 O site é usado pelos pontos de coleta para se cadastrarem na aplicação . 
 
-#### imagem do site
+### imagem do site
 
 
+![](https://github.com/marcosvnunes/NLW-01/blob/master/images/Screen%20Shot%202020-06-05%20at%2016.59.01.png?raw=true)
 
-### App Mobile
+
+![](https://github.com/marcosvnunes/NLW-01/blob/master/images/Screen%20Shot%202020-06-05%20at%2017.32.19.png?raw=true)
+
+![](https://github.com/marcosvnunes/NLW-01/blob/master/images/Screen%20Shot%202020-06-05%20at%2017.32.28.png?raw=true)
+
+## App Mobile
 
 O App Mobile é usado para encontrar os pontos de coleta cadastrados,
 sendo possivel fazer um filtro pela localização(estado, cidade) e pelos tipos de materiais coletados 
